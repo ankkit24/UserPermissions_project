@@ -3,6 +3,7 @@ const ROLE = {
   BASIC: 'basic'
 }
 
+//this may come from a db like a mongo db, try getting it from mongo db
 module.exports = {
   ROLE: ROLE,
   users: [
